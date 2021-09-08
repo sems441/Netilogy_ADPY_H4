@@ -1,0 +1,250 @@
+Название страны: Aruba;   Ссылка: https://en.wikipedia.org/wiki/Aruba
+Название страны: Afghanistan;   Ссылка: https://en.wikipedia.org/wiki/Afghanistan
+Название страны: Angola;   Ссылка: https://en.wikipedia.org/wiki/Angola
+Название страны: Anguilla;   Ссылка: https://en.wikipedia.org/wiki/Anguilla
+Название страны: Åland Islands;   Ссылка: https://en.wikipedia.org/wiki/Åland_Islands
+Название страны: Albania;   Ссылка: https://en.wikipedia.org/wiki/Albania
+Название страны: Andorra;   Ссылка: https://en.wikipedia.org/wiki/Andorra
+Название страны: United Arab Emirates;   Ссылка: https://en.wikipedia.org/wiki/United_Arab_Emirates
+Название страны: Argentina;   Ссылка: https://en.wikipedia.org/wiki/Argentina
+Название страны: Armenia;   Ссылка: https://en.wikipedia.org/wiki/Armenia
+Название страны: American Samoa;   Ссылка: https://en.wikipedia.org/wiki/American_Samoa
+Название страны: Antarctica;   Ссылка: https://en.wikipedia.org/wiki/Antarctica
+Название страны: French Southern and Antarctic Lands;   Ссылка: https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands
+Название страны: Antigua and Barbuda;   Ссылка: https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+Название страны: Australia;   Ссылка: https://en.wikipedia.org/wiki/Australia
+Название страны: Austria;   Ссылка: https://en.wikipedia.org/wiki/Austria
+Название страны: Azerbaijan;   Ссылка: https://en.wikipedia.org/wiki/Azerbaijan
+Название страны: Burundi;   Ссылка: https://en.wikipedia.org/wiki/Burundi
+Название страны: Belgium;   Ссылка: https://en.wikipedia.org/wiki/Belgium
+Название страны: Benin;   Ссылка: https://en.wikipedia.org/wiki/Benin
+Название страны: Burkina Faso;   Ссылка: https://en.wikipedia.org/wiki/Burkina_Faso
+Название страны: Bangladesh;   Ссылка: https://en.wikipedia.org/wiki/Bangladesh
+Название страны: Bulgaria;   Ссылка: https://en.wikipedia.org/wiki/Bulgaria
+Название страны: Bahrain;   Ссылка: https://en.wikipedia.org/wiki/Bahrain
+Название страны: Bahamas;   Ссылка: https://en.wikipedia.org/wiki/Bahamas
+Название страны: Bosnia and Herzegovina;   Ссылка: https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+Название страны: Saint Barthélemy;   Ссылка: https://en.wikipedia.org/wiki/Saint_Barthélemy
+Название страны: Saint Helena, Ascension and Tristan da Cunha;   Ссылка: https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
+Название страны: Belarus;   Ссылка: https://en.wikipedia.org/wiki/Belarus
+Название страны: Belize;   Ссылка: https://en.wikipedia.org/wiki/Belize
+Название страны: Bermuda;   Ссылка: https://en.wikipedia.org/wiki/Bermuda
+Название страны: Bolivia;   Ссылка: https://en.wikipedia.org/wiki/Bolivia
+Название страны: Caribbean Netherlands;   Ссылка: https://en.wikipedia.org/wiki/Caribbean_Netherlands
+Название страны: Brazil;   Ссылка: https://en.wikipedia.org/wiki/Brazil
+Название страны: Barbados;   Ссылка: https://en.wikipedia.org/wiki/Barbados
+Название страны: Brunei;   Ссылка: https://en.wikipedia.org/wiki/Brunei
+Название страны: Bhutan;   Ссылка: https://en.wikipedia.org/wiki/Bhutan
+Название страны: Bouvet Island;   Ссылка: https://en.wikipedia.org/wiki/Bouvet_Island
+Название страны: Botswana;   Ссылка: https://en.wikipedia.org/wiki/Botswana
+Название страны: Central African Republic;   Ссылка: https://en.wikipedia.org/wiki/Central_African_Republic
+Название страны: Canada;   Ссылка: https://en.wikipedia.org/wiki/Canada
+Название страны: Cocos (Keeling) Islands;   Ссылка: https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands
+Название страны: Switzerland;   Ссылка: https://en.wikipedia.org/wiki/Switzerland
+Название страны: Chile;   Ссылка: https://en.wikipedia.org/wiki/Chile
+Название страны: China;   Ссылка: https://en.wikipedia.org/wiki/China
+Название страны: Ivory Coast;   Ссылка: https://en.wikipedia.org/wiki/Ivory_Coast
+Название страны: Cameroon;   Ссылка: https://en.wikipedia.org/wiki/Cameroon
+Название страны: DR Congo;   Ссылка: https://en.wikipedia.org/wiki/DR_Congo
+Название страны: Republic of the Congo;   Ссылка: https://en.wikipedia.org/wiki/Republic_of_the_Congo
+Название страны: Cook Islands;   Ссылка: https://en.wikipedia.org/wiki/Cook_Islands
+Название страны: Colombia;   Ссылка: https://en.wikipedia.org/wiki/Colombia
+Название страны: Comoros;   Ссылка: https://en.wikipedia.org/wiki/Comoros
+Название страны: Cape Verde;   Ссылка: https://en.wikipedia.org/wiki/Cape_Verde
+Название страны: Costa Rica;   Ссылка: https://en.wikipedia.org/wiki/Costa_Rica
+Название страны: Cuba;   Ссылка: https://en.wikipedia.org/wiki/Cuba
+Название страны: Curaçao;   Ссылка: https://en.wikipedia.org/wiki/Curaçao
+Название страны: Christmas Island;   Ссылка: https://en.wikipedia.org/wiki/Christmas_Island
+Название страны: Cayman Islands;   Ссылка: https://en.wikipedia.org/wiki/Cayman_Islands
+Название страны: Cyprus;   Ссылка: https://en.wikipedia.org/wiki/Cyprus
+Название страны: Czechia;   Ссылка: https://en.wikipedia.org/wiki/Czechia
+Название страны: Germany;   Ссылка: https://en.wikipedia.org/wiki/Germany
+Название страны: Djibouti;   Ссылка: https://en.wikipedia.org/wiki/Djibouti
+Название страны: Dominica;   Ссылка: https://en.wikipedia.org/wiki/Dominica
+Название страны: Denmark;   Ссылка: https://en.wikipedia.org/wiki/Denmark
+Название страны: Dominican Republic;   Ссылка: https://en.wikipedia.org/wiki/Dominican_Republic
+Название страны: Algeria;   Ссылка: https://en.wikipedia.org/wiki/Algeria
+Название страны: Ecuador;   Ссылка: https://en.wikipedia.org/wiki/Ecuador
+Название страны: Egypt;   Ссылка: https://en.wikipedia.org/wiki/Egypt
+Название страны: Eritrea;   Ссылка: https://en.wikipedia.org/wiki/Eritrea
+Название страны: Western Sahara;   Ссылка: https://en.wikipedia.org/wiki/Western_Sahara
+Название страны: Spain;   Ссылка: https://en.wikipedia.org/wiki/Spain
+Название страны: Estonia;   Ссылка: https://en.wikipedia.org/wiki/Estonia
+Название страны: Ethiopia;   Ссылка: https://en.wikipedia.org/wiki/Ethiopia
+Название страны: Finland;   Ссылка: https://en.wikipedia.org/wiki/Finland
+Название страны: Fiji;   Ссылка: https://en.wikipedia.org/wiki/Fiji
+Название страны: Falkland Islands;   Ссылка: https://en.wikipedia.org/wiki/Falkland_Islands
+Название страны: France;   Ссылка: https://en.wikipedia.org/wiki/France
+Название страны: Faroe Islands;   Ссылка: https://en.wikipedia.org/wiki/Faroe_Islands
+Название страны: Micronesia;   Ссылка: https://en.wikipedia.org/wiki/Micronesia
+Название страны: Gabon;   Ссылка: https://en.wikipedia.org/wiki/Gabon
+Название страны: United Kingdom;   Ссылка: https://en.wikipedia.org/wiki/United_Kingdom
+Название страны: Georgia;   Ссылка: https://en.wikipedia.org/wiki/Georgia
+Название страны: Guernsey;   Ссылка: https://en.wikipedia.org/wiki/Guernsey
+Название страны: Ghana;   Ссылка: https://en.wikipedia.org/wiki/Ghana
+Название страны: Gibraltar;   Ссылка: https://en.wikipedia.org/wiki/Gibraltar
+Название страны: Guinea;   Ссылка: https://en.wikipedia.org/wiki/Guinea
+Название страны: Guadeloupe;   Ссылка: https://en.wikipedia.org/wiki/Guadeloupe
+Название страны: Gambia;   Ссылка: https://en.wikipedia.org/wiki/Gambia
+Название страны: Guinea-Bissau;   Ссылка: https://en.wikipedia.org/wiki/Guinea-Bissau
+Название страны: Equatorial Guinea;   Ссылка: https://en.wikipedia.org/wiki/Equatorial_Guinea
+Название страны: Greece;   Ссылка: https://en.wikipedia.org/wiki/Greece
+Название страны: Grenada;   Ссылка: https://en.wikipedia.org/wiki/Grenada
+Название страны: Greenland;   Ссылка: https://en.wikipedia.org/wiki/Greenland
+Название страны: Guatemala;   Ссылка: https://en.wikipedia.org/wiki/Guatemala
+Название страны: French Guiana;   Ссылка: https://en.wikipedia.org/wiki/French_Guiana
+Название страны: Guam;   Ссылка: https://en.wikipedia.org/wiki/Guam
+Название страны: Guyana;   Ссылка: https://en.wikipedia.org/wiki/Guyana
+Название страны: Hong Kong;   Ссылка: https://en.wikipedia.org/wiki/Hong_Kong
+Название страны: Heard Island and McDonald Islands;   Ссылка: https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands
+Название страны: Honduras;   Ссылка: https://en.wikipedia.org/wiki/Honduras
+Название страны: Croatia;   Ссылка: https://en.wikipedia.org/wiki/Croatia
+Название страны: Haiti;   Ссылка: https://en.wikipedia.org/wiki/Haiti
+Название страны: Hungary;   Ссылка: https://en.wikipedia.org/wiki/Hungary
+Название страны: Indonesia;   Ссылка: https://en.wikipedia.org/wiki/Indonesia
+Название страны: Isle of Man;   Ссылка: https://en.wikipedia.org/wiki/Isle_of_Man
+Название страны: India;   Ссылка: https://en.wikipedia.org/wiki/India
+Название страны: British Indian Ocean Territory;   Ссылка: https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory
+Название страны: Ireland;   Ссылка: https://en.wikipedia.org/wiki/Ireland
+Название страны: Iran;   Ссылка: https://en.wikipedia.org/wiki/Iran
+Название страны: Iraq;   Ссылка: https://en.wikipedia.org/wiki/Iraq
+Название страны: Iceland;   Ссылка: https://en.wikipedia.org/wiki/Iceland
+Название страны: Israel;   Ссылка: https://en.wikipedia.org/wiki/Israel
+Название страны: Italy;   Ссылка: https://en.wikipedia.org/wiki/Italy
+Название страны: Jamaica;   Ссылка: https://en.wikipedia.org/wiki/Jamaica
+Название страны: Jersey;   Ссылка: https://en.wikipedia.org/wiki/Jersey
+Название страны: Jordan;   Ссылка: https://en.wikipedia.org/wiki/Jordan
+Название страны: Japan;   Ссылка: https://en.wikipedia.org/wiki/Japan
+Название страны: Kazakhstan;   Ссылка: https://en.wikipedia.org/wiki/Kazakhstan
+Название страны: Kenya;   Ссылка: https://en.wikipedia.org/wiki/Kenya
+Название страны: Kyrgyzstan;   Ссылка: https://en.wikipedia.org/wiki/Kyrgyzstan
+Название страны: Cambodia;   Ссылка: https://en.wikipedia.org/wiki/Cambodia
+Название страны: Kiribati;   Ссылка: https://en.wikipedia.org/wiki/Kiribati
+Название страны: Saint Kitts and Nevis;   Ссылка: https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis
+Название страны: South Korea;   Ссылка: https://en.wikipedia.org/wiki/South_Korea
+Название страны: Kosovo;   Ссылка: https://en.wikipedia.org/wiki/Kosovo
+Название страны: Kuwait;   Ссылка: https://en.wikipedia.org/wiki/Kuwait
+Название страны: Laos;   Ссылка: https://en.wikipedia.org/wiki/Laos
+Название страны: Lebanon;   Ссылка: https://en.wikipedia.org/wiki/Lebanon
+Название страны: Liberia;   Ссылка: https://en.wikipedia.org/wiki/Liberia
+Название страны: Libya;   Ссылка: https://en.wikipedia.org/wiki/Libya
+Название страны: Saint Lucia;   Ссылка: https://en.wikipedia.org/wiki/Saint_Lucia
+Название страны: Liechtenstein;   Ссылка: https://en.wikipedia.org/wiki/Liechtenstein
+Название страны: Sri Lanka;   Ссылка: https://en.wikipedia.org/wiki/Sri_Lanka
+Название страны: Lesotho;   Ссылка: https://en.wikipedia.org/wiki/Lesotho
+Название страны: Lithuania;   Ссылка: https://en.wikipedia.org/wiki/Lithuania
+Название страны: Luxembourg;   Ссылка: https://en.wikipedia.org/wiki/Luxembourg
+Название страны: Latvia;   Ссылка: https://en.wikipedia.org/wiki/Latvia
+Название страны: Macau;   Ссылка: https://en.wikipedia.org/wiki/Macau
+Название страны: Saint Martin;   Ссылка: https://en.wikipedia.org/wiki/Saint_Martin
+Название страны: Morocco;   Ссылка: https://en.wikipedia.org/wiki/Morocco
+Название страны: Monaco;   Ссылка: https://en.wikipedia.org/wiki/Monaco
+Название страны: Moldova;   Ссылка: https://en.wikipedia.org/wiki/Moldova
+Название страны: Madagascar;   Ссылка: https://en.wikipedia.org/wiki/Madagascar
+Название страны: Maldives;   Ссылка: https://en.wikipedia.org/wiki/Maldives
+Название страны: Mexico;   Ссылка: https://en.wikipedia.org/wiki/Mexico
+Название страны: Marshall Islands;   Ссылка: https://en.wikipedia.org/wiki/Marshall_Islands
+Название страны: North Macedonia;   Ссылка: https://en.wikipedia.org/wiki/North_Macedonia
+Название страны: Mali;   Ссылка: https://en.wikipedia.org/wiki/Mali
+Название страны: Malta;   Ссылка: https://en.wikipedia.org/wiki/Malta
+Название страны: Myanmar;   Ссылка: https://en.wikipedia.org/wiki/Myanmar
+Название страны: Montenegro;   Ссылка: https://en.wikipedia.org/wiki/Montenegro
+Название страны: Mongolia;   Ссылка: https://en.wikipedia.org/wiki/Mongolia
+Название страны: Northern Mariana Islands;   Ссылка: https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+Название страны: Mozambique;   Ссылка: https://en.wikipedia.org/wiki/Mozambique
+Название страны: Mauritania;   Ссылка: https://en.wikipedia.org/wiki/Mauritania
+Название страны: Montserrat;   Ссылка: https://en.wikipedia.org/wiki/Montserrat
+Название страны: Martinique;   Ссылка: https://en.wikipedia.org/wiki/Martinique
+Название страны: Mauritius;   Ссылка: https://en.wikipedia.org/wiki/Mauritius
+Название страны: Malawi;   Ссылка: https://en.wikipedia.org/wiki/Malawi
+Название страны: Malaysia;   Ссылка: https://en.wikipedia.org/wiki/Malaysia
+Название страны: Mayotte;   Ссылка: https://en.wikipedia.org/wiki/Mayotte
+Название страны: Namibia;   Ссылка: https://en.wikipedia.org/wiki/Namibia
+Название страны: New Caledonia;   Ссылка: https://en.wikipedia.org/wiki/New_Caledonia
+Название страны: Niger;   Ссылка: https://en.wikipedia.org/wiki/Niger
+Название страны: Norfolk Island;   Ссылка: https://en.wikipedia.org/wiki/Norfolk_Island
+Название страны: Nigeria;   Ссылка: https://en.wikipedia.org/wiki/Nigeria
+Название страны: Nicaragua;   Ссылка: https://en.wikipedia.org/wiki/Nicaragua
+Название страны: Niue;   Ссылка: https://en.wikipedia.org/wiki/Niue
+Название страны: Netherlands;   Ссылка: https://en.wikipedia.org/wiki/Netherlands
+Название страны: Norway;   Ссылка: https://en.wikipedia.org/wiki/Norway
+Название страны: Nepal;   Ссылка: https://en.wikipedia.org/wiki/Nepal
+Название страны: Nauru;   Ссылка: https://en.wikipedia.org/wiki/Nauru
+Название страны: New Zealand;   Ссылка: https://en.wikipedia.org/wiki/New_Zealand
+Название страны: Oman;   Ссылка: https://en.wikipedia.org/wiki/Oman
+Название страны: Pakistan;   Ссылка: https://en.wikipedia.org/wiki/Pakistan
+Название страны: Panama;   Ссылка: https://en.wikipedia.org/wiki/Panama
+Название страны: Pitcairn Islands;   Ссылка: https://en.wikipedia.org/wiki/Pitcairn_Islands
+Название страны: Peru;   Ссылка: https://en.wikipedia.org/wiki/Peru
+Название страны: Philippines;   Ссылка: https://en.wikipedia.org/wiki/Philippines
+Название страны: Palau;   Ссылка: https://en.wikipedia.org/wiki/Palau
+Название страны: Papua New Guinea;   Ссылка: https://en.wikipedia.org/wiki/Papua_New_Guinea
+Название страны: Poland;   Ссылка: https://en.wikipedia.org/wiki/Poland
+Название страны: Puerto Rico;   Ссылка: https://en.wikipedia.org/wiki/Puerto_Rico
+Название страны: North Korea;   Ссылка: https://en.wikipedia.org/wiki/North_Korea
+Название страны: Portugal;   Ссылка: https://en.wikipedia.org/wiki/Portugal
+Название страны: Paraguay;   Ссылка: https://en.wikipedia.org/wiki/Paraguay
+Название страны: Palestine;   Ссылка: https://en.wikipedia.org/wiki/Palestine
+Название страны: French Polynesia;   Ссылка: https://en.wikipedia.org/wiki/French_Polynesia
+Название страны: Qatar;   Ссылка: https://en.wikipedia.org/wiki/Qatar
+Название страны: Réunion;   Ссылка: https://en.wikipedia.org/wiki/Réunion
+Название страны: Romania;   Ссылка: https://en.wikipedia.org/wiki/Romania
+Название страны: Russia;   Ссылка: https://en.wikipedia.org/wiki/Russia
+Название страны: Rwanda;   Ссылка: https://en.wikipedia.org/wiki/Rwanda
+Название страны: Saudi Arabia;   Ссылка: https://en.wikipedia.org/wiki/Saudi_Arabia
+Название страны: Sudan;   Ссылка: https://en.wikipedia.org/wiki/Sudan
+Название страны: Senegal;   Ссылка: https://en.wikipedia.org/wiki/Senegal
+Название страны: Singapore;   Ссылка: https://en.wikipedia.org/wiki/Singapore
+Название страны: South Georgia;   Ссылка: https://en.wikipedia.org/wiki/South_Georgia
+Название страны: Svalbard and Jan Mayen;   Ссылка: https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen
+Название страны: Solomon Islands;   Ссылка: https://en.wikipedia.org/wiki/Solomon_Islands
+Название страны: Sierra Leone;   Ссылка: https://en.wikipedia.org/wiki/Sierra_Leone
+Название страны: El Salvador;   Ссылка: https://en.wikipedia.org/wiki/El_Salvador
+Название страны: San Marino;   Ссылка: https://en.wikipedia.org/wiki/San_Marino
+Название страны: Somalia;   Ссылка: https://en.wikipedia.org/wiki/Somalia
+Название страны: Saint Pierre and Miquelon;   Ссылка: https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon
+Название страны: Serbia;   Ссылка: https://en.wikipedia.org/wiki/Serbia
+Название страны: South Sudan;   Ссылка: https://en.wikipedia.org/wiki/South_Sudan
+Название страны: São Tomé and Príncipe;   Ссылка: https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe
+Название страны: Suriname;   Ссылка: https://en.wikipedia.org/wiki/Suriname
+Название страны: Slovakia;   Ссылка: https://en.wikipedia.org/wiki/Slovakia
+Название страны: Slovenia;   Ссылка: https://en.wikipedia.org/wiki/Slovenia
+Название страны: Sweden;   Ссылка: https://en.wikipedia.org/wiki/Sweden
+Название страны: Eswatini;   Ссылка: https://en.wikipedia.org/wiki/Eswatini
+Название страны: Sint Maarten;   Ссылка: https://en.wikipedia.org/wiki/Sint_Maarten
+Название страны: Seychelles;   Ссылка: https://en.wikipedia.org/wiki/Seychelles
+Название страны: Syria;   Ссылка: https://en.wikipedia.org/wiki/Syria
+Название страны: Turks and Caicos Islands;   Ссылка: https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands
+Название страны: Chad;   Ссылка: https://en.wikipedia.org/wiki/Chad
+Название страны: Togo;   Ссылка: https://en.wikipedia.org/wiki/Togo
+Название страны: Thailand;   Ссылка: https://en.wikipedia.org/wiki/Thailand
+Название страны: Tajikistan;   Ссылка: https://en.wikipedia.org/wiki/Tajikistan
+Название страны: Tokelau;   Ссылка: https://en.wikipedia.org/wiki/Tokelau
+Название страны: Turkmenistan;   Ссылка: https://en.wikipedia.org/wiki/Turkmenistan
+Название страны: Timor-Leste;   Ссылка: https://en.wikipedia.org/wiki/Timor-Leste
+Название страны: Tonga;   Ссылка: https://en.wikipedia.org/wiki/Tonga
+Название страны: Trinidad and Tobago;   Ссылка: https://en.wikipedia.org/wiki/Trinidad_and_Tobago
+Название страны: Tunisia;   Ссылка: https://en.wikipedia.org/wiki/Tunisia
+Название страны: Turkey;   Ссылка: https://en.wikipedia.org/wiki/Turkey
+Название страны: Tuvalu;   Ссылка: https://en.wikipedia.org/wiki/Tuvalu
+Название страны: Taiwan;   Ссылка: https://en.wikipedia.org/wiki/Taiwan
+Название страны: Tanzania;   Ссылка: https://en.wikipedia.org/wiki/Tanzania
+Название страны: Uganda;   Ссылка: https://en.wikipedia.org/wiki/Uganda
+Название страны: Ukraine;   Ссылка: https://en.wikipedia.org/wiki/Ukraine
+Название страны: United States Minor Outlying Islands;   Ссылка: https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands
+Название страны: Uruguay;   Ссылка: https://en.wikipedia.org/wiki/Uruguay
+Название страны: United States;   Ссылка: https://en.wikipedia.org/wiki/United_States
+Название страны: Uzbekistan;   Ссылка: https://en.wikipedia.org/wiki/Uzbekistan
+Название страны: Vatican City;   Ссылка: https://en.wikipedia.org/wiki/Vatican_City
+Название страны: Saint Vincent and the Grenadines;   Ссылка: https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines
+Название страны: Venezuela;   Ссылка: https://en.wikipedia.org/wiki/Venezuela
+Название страны: British Virgin Islands;   Ссылка: https://en.wikipedia.org/wiki/British_Virgin_Islands
+Название страны: United States Virgin Islands;   Ссылка: https://en.wikipedia.org/wiki/United_States_Virgin_Islands
+Название страны: Vietnam;   Ссылка: https://en.wikipedia.org/wiki/Vietnam
+Название страны: Vanuatu;   Ссылка: https://en.wikipedia.org/wiki/Vanuatu
+Название страны: Wallis and Futuna;   Ссылка: https://en.wikipedia.org/wiki/Wallis_and_Futuna
+Название страны: Samoa;   Ссылка: https://en.wikipedia.org/wiki/Samoa
+Название страны: Yemen;   Ссылка: https://en.wikipedia.org/wiki/Yemen
+Название страны: South Africa;   Ссылка: https://en.wikipedia.org/wiki/South_Africa
+Название страны: Zambia;   Ссылка: https://en.wikipedia.org/wiki/Zambia
+Название страны: Zimbabwe;   Ссылка: https://en.wikipedia.org/wiki/Zimbabwe
